@@ -1,0 +1,31 @@
+{
+    "name": "daniel-schmitz-react-extension-pack",
+    "displayName": "Daniel Schmitz React Extension Pack",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Daniel-Schmitz-VSCode-Extension-Packs/daniel-schmitz-react-extension-pack.git"
+    },
+    "extensionPack": [
+        "christian-kohler.npm-intellisense",
+        "dbaeumer.vscode-eslint",
+        "dsznajder.es7-react-js-snippets",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
+        "formulahendry.auto-rename-tag",
+        "Gruntfuggly.todo-tree",
+        "PKief.material-icon-theme",
+        "planbcoding.vscode-react-refactor",
+        "usernamehw.errorlens",
+        "vincaslt.highlight-matching-tag",
+        "wix.vscode-import-cost",
+        "wmaurer.change-case",
+    ]
+}
